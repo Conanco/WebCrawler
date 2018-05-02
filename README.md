@@ -1,2 +1,2 @@
 # WebCrawler
-Crawl the website
+Learn how to write a spider
